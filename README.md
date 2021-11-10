@@ -1,2 +1,2 @@
-# ShapeAi-TimeSeries
+#TimeSeries
 Time Series Prediction 
